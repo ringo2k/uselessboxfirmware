@@ -1,4 +1,5 @@
 Little Firmware for the weekendproject "useless box"
+This firmware was written on one evening, the PWM is generated in software and the different positions can be different on your servo. But for a simple useless box it is a good start.
 
 * based on Attiny13 uC 
 * connect SERVO PWM signal to PB0
