@@ -1,0 +1,8 @@
+Little Firmware for the weekendproject "useless box"
+
+* based on Attiny13 uC 
+* connect SERVO PWM signal to PB0
+* PB3 is LED output 
+* PB4 is switch input (LOW active)
+
+* different programs, because the useless box is a moody useless box :-)
